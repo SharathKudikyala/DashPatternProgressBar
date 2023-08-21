@@ -22,3 +22,6 @@ Example:
         app:trackLineGap="5"
         app:trackLineThickness="10"/>
 ```
+
+Screenshot:
+![image](screenshot.png)
