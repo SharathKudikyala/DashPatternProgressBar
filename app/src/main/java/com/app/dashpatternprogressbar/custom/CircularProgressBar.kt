@@ -1,4 +1,4 @@
-package com.app.canvasex
+package com.app.dashpatternprogressbar.custom
 
 import android.animation.PropertyValuesHolder
 import android.animation.ValueAnimator
@@ -11,6 +11,7 @@ import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
 import android.view.animation.AccelerateDecelerateInterpolator
+import com.app.dashpatternprogressbar.R
 import kotlin.math.cos
 import kotlin.math.sin
 
