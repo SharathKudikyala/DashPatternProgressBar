@@ -1,10 +1,10 @@
-# DashPatternProgressBar
+## DashPatternProgressBar
 
 A custom circular progress bar with dash pattern background is designed using Canvas.
 
 Custom attributes are provided for modifications like, size, width of fill progress, gap between dashes and thickness etc.
 
-Example:
+# Example:
 
 ```agsl
 <com.app.dashpatternprogressbar.custom.CircularProgressBar
@@ -23,5 +23,6 @@ Example:
         app:trackLineThickness="10"/>
 ```
 
-Screenshot:
+# Screenshot:
+
 ![image](screenshot.png)
